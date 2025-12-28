@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FC_TamiLionS/static/css/main.41ab713b.css",
+    "main.js": "/FC_TamiLionS/static/js/main.4efdbd5f.js",
+    "static/media/hero_football.png": "/FC_TamiLionS/static/media/hero_football.a0abb576a42c2d52827c.png",
+    "static/media/homeGB.jpeg": "/FC_TamiLionS/static/media/homeGB.3cfd67c777191d8eface.jpeg",
+    "static/media/founderTC.jpeg": "/FC_TamiLionS/static/media/founderTC.f2c2d9817ef7235e465c.jpeg",
+    "static/media/logo.jpg": "/FC_TamiLionS/static/media/logo.826bdc22123f3d2d1692.jpg",
+    "index.html": "/FC_TamiLionS/index.html",
+    "main.41ab713b.css.map": "/FC_TamiLionS/static/css/main.41ab713b.css.map",
+    "main.4efdbd5f.js.map": "/FC_TamiLionS/static/js/main.4efdbd5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ab713b.css",
+    "static/js/main.4efdbd5f.js"
+  ]
+}
